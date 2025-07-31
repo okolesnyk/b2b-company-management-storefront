@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/okolesnyk/b2b-company-management-storefront/
+    type: markup
+
+folders:
+  /products/: /products/default
